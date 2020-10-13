@@ -1,18 +1,18 @@
 ---
-title: Understanding the Gatsby lifecycle in depth
-date: 2017-04-28
+title: Normandie Web School
+date: 13-10-2020
 hero: /images/hero-2.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 timeToRead: 4
 authors:
-  - Dennis Brotzky
+  - Antoine Ridé
 
 ---
 
-Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+Bonjour le monde! Ceci est un post de démonstration pour `hugo-theme-novela`. Novela est construit par l'équipe de [Narative] (https://narative.co), et conçu pour tous ceux qui aiment le Web.
 
-At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
-At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+Chez Narative, nous sommes fans de Gatsby depuis le premier jour, en l'utilisant pour créer des produits performants et flexibles pour nos clients et pour nous-mêmes. Avec l'intérêt croissant de la communauté pour Gatsby, nous espérons créer plus de ressources qui permettront à quiconque de saisir plus facilement la puissance de cet outil incroyable.
+Chez Narative, nous sommes fans de Gatsby depuis le premier jour, en l'utilisant pour créer des produits performants et flexibles pour nos clients et pour nous-mêmes. Avec l'intérêt croissant de la communauté pour Gatsby, nous espérons créer plus de ressources qui permettront à quiconque de saisir plus facilement la puissance de cet outil incroyable.
 
 ```js
 import React from "react";
