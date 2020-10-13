@@ -10,6 +10,13 @@ sections:
   path: content/_index.md
   label: Home
 - type: directory
+  path: content/authors
+  label: Authors
+  create: all
+  match: "**/_index.md"
+  templates:
+  - author
+- type: directory
   path: content/post
   label: Posts
   create: all
@@ -18,13 +25,6 @@ sections:
   - post
 - type: heading
   label: Data
-- type: directory
-  path: content/authors
-  label: Authors
-  create: all
-  match: "**/_index.md"
-  templates:
-  - author
 - type: directory
   path: config/_default
   label: Config
